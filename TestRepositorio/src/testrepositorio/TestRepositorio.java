@@ -17,7 +17,12 @@ public class TestRepositorio {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("holiwis");
-        System.err.println("edicion 1");
+        System.out.println("local 1");
+        
+        
+        
+        
+        
     }
     
 }
